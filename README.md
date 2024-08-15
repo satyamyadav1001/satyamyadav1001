@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ratnesh Kumar Prajapati</h1>
+<h1 align="center">Hi 👋, I'm Satyam Yadav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="center">
-  <img width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Ratnesh Kumar Prajapati" />
+  <img width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Satyam Yadav"/>
 </p>
 
 ## 💫About Me :
-Hi, I'm Ratnesh Kumar Prajapati, a Full Stack Web Developer with a deep passion for the MERN stack. Constantly exploring new technologies and tackling challenges, I thrive in the ever-evolving tech landscape. I believe in the power of collaboration and community support to drive innovation and growth. Join me on this journey as we push boundaries and create groundbreaking solutions together!
+Hi, I'm Satyam Yadav, a Web Developer with a deep passion for the MERN stack. Constantly exploring new technologies and tackling challenges, I thrive in the ever-evolving tech landscape. I believe in the power of collaboration and community support to drive innovation and growth. Join me on this journey as we push boundaries and create groundbreaking solutions together!
 
 ## More About Me:
 🔭 I’m currently working on exciting projects and exploring new technologies    to stay at the forefront of innovation.  
